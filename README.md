@@ -1,0 +1,1 @@
+Este codigo usa una base de datos .json como base para encontrar mutantes desde omega hasta epsilon, solo que tiene problemas para imprimir las imagenes y no he agregado a todos los mutantes existentes
